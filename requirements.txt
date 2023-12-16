@@ -5,6 +5,7 @@ numpy
 regex
 nltk
 keras
+textblob
 scikit-learn
 matplotlib
 seaborn
